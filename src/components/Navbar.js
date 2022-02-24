@@ -4,9 +4,9 @@ import '../style.css'
 
 export default function Navbar(){
     return(
-        <div>
-            <h1>Navbar content</h1>
-        </div>
+        <nav>
+            <img src={require('../images/reactimage.png') }  className="img"/>
+        </nav>
     )
     
 }
