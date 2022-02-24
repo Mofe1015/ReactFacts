@@ -1,5 +1,6 @@
 import React from "react";
 import  ReactDOM  from "react-dom";
+import './style.css'
 import Navbar from "./components/Navbar";
 import Main from "./components/Main";
 
