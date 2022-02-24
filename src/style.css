@@ -1,0 +1,31 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Inter, sans-serif;
+}
+.Nav {
+  padding: 20px;
+  background-color: #292d35;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+}
+.img {
+  width: 70px;
+}
+.txt {
+  color: #61dafc;
+  font-size: 30px;
+  margin-left: 10px;
+  font-weight: 700;
+}
+.madebytxt {
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+}
