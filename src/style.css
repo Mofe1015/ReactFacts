@@ -3,10 +3,13 @@ body {
   margin: 0;
   padding: 0;
   font-family: Inter, sans-serif;
+  background-color: #292d35;
 }
+
 .Nav {
   padding: 20px;
-  background-color: #292d35;
+  margin: 0px;
+  background-color: #21222a;
   display: flex;
   align-items: center;
 }
@@ -28,4 +31,39 @@ body {
   color: white;
   font-size: 25px;
   font-weight: 500;
+}
+
+.Main {
+  margin: 0px;
+  padding-top: 30px;
+  padding-left: 38%;
+  color: white;
+  height: 500px;
+  background-image: url(./images/reactimagecut.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: 60%;
+  background-size: 180px;
+}
+.mainhead {
+  display: flex;
+  align-items: center;
+}
+.maintxt {
+  color: white;
+  font-size: 40px;
+}
+.maintxt1 {
+  color: #61dafc;
+  font-size: 40px;
+  padding-left: 10px;
+}
+
+.main--facts > li {
+  padding-bottom: 10px;
+}
+
+.main--facts > li::marker {
+  color: #61dafc;
+  font-size: 1.4rem;
 }
