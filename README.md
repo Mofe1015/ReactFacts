@@ -4,7 +4,9 @@
 
 ## ABOUT
 
-SImple React page for understanding Fundamentals of REACT
+Simple React page for understanding Fundamentals of REACT
+
+Light and Dark mode has been integrated with React State
 
 email : mofeomotosho@gmail.com
 
